@@ -6,7 +6,7 @@ This project focuses on comparing three versions of FastText models—CBOW, Skip
 Models Used:
 CBOW (Continuous Bag of Words): A version of FastText where the model predicts the target word from the surrounding context words.
 Skip-gram: A version of FastText that predicts the surrounding context words from a given target word.
-Pre-trained Facebook Model: A FastText model pre-trained by Facebook on a large-scale corpus.
+Pre-trained Facebook Model: A FastText model pre-trained by Facebook on a large-scale corpus. (https://discord.com/channels/@me/849931356011757598/1277747939283963925)
 
 Dataset:
 Goodreads Dataset
