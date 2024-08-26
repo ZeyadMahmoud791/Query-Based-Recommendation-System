@@ -1,6 +1,8 @@
 # Query-Based-Recommendation-System
 
 Overview:
+
+
 This project focuses on comparing three versions of FastText models—CBOW, Skip-gram, and a pre-trained model from Facebook—trained on the Goodreads dataset. The aim is to evaluate the performance of these models in a query based book recommendation task.
 
 Models Used:
