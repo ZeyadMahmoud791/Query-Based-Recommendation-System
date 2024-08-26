@@ -13,3 +13,4 @@ Goodreads Dataset
 The Goodreads dataset consists of book reviews and metadata collected from the Goodreads platform. It provides a rich source of textual data, making it ideal for training and evaluating word embeddings and text classification models.
 
 Source: https://datarepo.eng.ucsd.edu/mcauley_group/gdrive/goodreads/goodreads_books.json.gz
+After Preprocessing: https://huggingface.co/datasets/booksouls/goodreads-book-descriptions
